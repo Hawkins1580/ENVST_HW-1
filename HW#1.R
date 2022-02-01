@@ -25,7 +25,12 @@ my_DataFrame <- data.frame(Peak_Name =c("Mount Haystack", "Mount Skylight", "Dix
 
 # Question #1
 # Converting elevation to meters
+
+# Method #1
 my_DataFrame[,2]*0.3048
+
+#Method #2
+my_DataFrame$Elevation*0.3048
 
 
 # Question #2
@@ -35,6 +40,4 @@ my_DataFrame[,2]*0.3048
 # Question #3
 # Isolating longest round trip length 
 my_DataFrame[2,4]
-
-
 
