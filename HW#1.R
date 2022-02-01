@@ -41,3 +41,5 @@ my_DataFrame$Elevation*0.3048
 # Isolating longest round trip length 
 Longest_Trip <- my_DataFrame[2,4]
 
+# Question #4
+# * In Word Doc *
