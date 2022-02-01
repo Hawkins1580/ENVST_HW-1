@@ -1,5 +1,7 @@
 # Activity & HW #1
 
+# In-Class Prompts
+
 # Examples of calculations
 6*6
 6/6
